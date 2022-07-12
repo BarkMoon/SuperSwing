@@ -27,6 +27,7 @@ mono_crash.*
 /Release/Log.txt
 /Release/*.res
 /Release/*pdb
+/Release/*.recipe
 [Rr]eleases/
 x64/
 x86/
